@@ -103,7 +103,7 @@ const Header = (props) => {
     <div id="navright-box">
     <div className="nav" id="nav-username">
         <Link className='login-text' to={'/login'}>
-          Login
+          Test
         </Link>
       </div>
       <div className='nav' id="fruit">
