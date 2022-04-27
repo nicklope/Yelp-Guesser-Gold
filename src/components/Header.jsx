@@ -102,8 +102,8 @@ const Header = (props) => {
     </div>
     <div id="navright-box">
     <div className="nav" id="nav-username">
-        <Link to={'/login'}>
-          {'Log In'}
+        <Link className='login-text' to={'/login'}>
+          Login
         </Link>
       </div>
       <div className='nav' id="fruit">
